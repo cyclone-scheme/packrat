@@ -1,7 +1,7 @@
 (package
   (name packrat)
   (version 0.1)
-  (license "BSD")
+  (license "MIT")
   (authors "Peter Lane, LShift Ltd. <query at lshift dot net> ,Tony Garnock-Jones <tonyg at kcbbs dot gen dot nz>")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com>")
   (description "Packrat Parser Library")
