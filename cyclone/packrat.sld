@@ -138,7 +138,7 @@
 
     (define (parse-position->string pos)
       (if (not pos)
-	  "<??>"
+	  (list->string (list #\< #\? #\? #\>))
 	  (string-append (parse-position-file pos) ":"
 			 (number->string (parse-position-line pos)) ":"
 			 (number->string (parse-position-column pos)))))
