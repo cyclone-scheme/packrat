@@ -1,6 +1,6 @@
 (package
   (name packrat)
-  (version 0.2.0)
+  (version "0.2.0".0)
   (license "MIT")
   (authors "Peter Lane, LShift Ltd. <query at lshift dot net> ,Tony Garnock-Jones <tonyg at kcbbs dot gen dot nz>")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com>")
